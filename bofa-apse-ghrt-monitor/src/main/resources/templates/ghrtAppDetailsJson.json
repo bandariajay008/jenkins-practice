@@ -1,0 +1,26 @@
+{
+	"GlobalHumanResources": [
+		{
+			"applicationCategories": [
+				{
+					"categoryName": "HR",
+					"applications": [
+						{
+							"appName": "Google HR",
+							"appUrl": "https://hr.google.com"
+						}
+					]
+				},
+				{
+					"categoryName": "Finance",
+					"applications": [
+						{
+							"appName": "Google Finance",
+							"appUrl": "https://finance.google.com"
+						}
+					]
+				}
+			]
+		}
+	]
+}
