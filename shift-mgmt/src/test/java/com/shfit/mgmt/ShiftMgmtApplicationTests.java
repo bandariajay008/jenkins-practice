@@ -8,6 +8,7 @@ class ShiftMgmtApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.prinln("this is test");
 	}
 
 }
